@@ -1,0 +1,7 @@
+Last webhook triggered at: 4/25/2026, 11:03:44 PM
+
+Webhook Details:
+- Timestamp: 1777176224971
+- ISO Format: 2026-04-26T04:03:44.971Z
+- Timezone: America/Chicago
+- UTC Format: Sun, 26 Apr 2026 04:03:44 GMT
